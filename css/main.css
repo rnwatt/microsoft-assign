@@ -41,5 +41,14 @@ footer {
 
 .imgBox {
   background-color: #C2DFE3;
+}
+
+.imgBox img {
+  min-width: 100%;
+}
+
+.imgBox p {
   padding: 10px;
+  margin-bottom: 0;
+  font-size: 13px;
 }
