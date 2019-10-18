@@ -22,3 +22,15 @@
 footer {
   border-top: 1px solid #253237;
 }
+
+.topBuffer {
+  margin-top: 20px;
+  border-top: 1px solid #9DB4C0;
+  padding-top: 5px;
+}
+
+#logoHistory {
+  text-align: center;
+  margin: 20px;
+  color: #9DB4C0;
+}
