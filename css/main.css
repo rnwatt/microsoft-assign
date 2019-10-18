@@ -1,9 +1,15 @@
 .title {
-  padding: 50px;
+  margin: 50px;
   text-align: center;
   color: #253237;
 }
 
 .menu {
   background-color: #253237;
+}
+
+.subtitle {
+  text-align: center;
+  color: #5C6B73;
+  padding: 30px;
 }
