@@ -13,3 +13,12 @@
   color: #5C6B73;
   padding: 30px;
 }
+
+.footer {
+  text-align: center;
+  padding: 50px;
+}
+
+footer {
+  border-top: 1px solid #253237;
+}
