@@ -52,3 +52,14 @@ footer {
   margin-bottom: 0;
   font-size: 13px;
 }
+
+.logo {
+  margin: 50px;
+}
+
+.foot {
+  margin: 25px;
+  max-width: 10%;
+  min-height: 31px;
+  min-width: 144px;
+}
